@@ -1,5 +1,3 @@
-<!-- USIA BELUM DITENTUKAN -->
-
 <html>
     <head>
         <style>
